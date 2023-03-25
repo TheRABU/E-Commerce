@@ -14,14 +14,34 @@
     padding: 20px 40px;
 
 }
-.price{
+.price{ 
     color: #ff136f;
-}
-.buy-now-button{
+}   /**price css**/
+.buy-now-button{ /** price button css **/
     background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
     colour: #fff;
     border: none;
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+}
+
+.category1, .category2, .category3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categories img{
+    width: 100px;
+}
+.category1{ 
+    background-color: orange;
+    color: #fff;
+}
+.category2{
+    background-color: orchid;
+    color: #fff;
+}
+.category3{
+    background-color: blue;
+    color: #fff
 }
