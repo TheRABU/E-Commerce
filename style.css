@@ -25,10 +25,13 @@
     padding: 9px 25px;
     cursor: pointer;
 }
-
+.buy-now-button:hover {
+    opacity: 0.6
+}
 .category1, .category2, .category3{
     padding: 10px 30px;
     border-radius: 10px;
+    cursor: pointer;
 }
 .categories img{
     width: 100px;
@@ -44,4 +47,12 @@
 .category3{
     background-color: blue;
     color: #fff
+}
+.card1{
+
+    border: none;
+    border-radius: 8px;
+    padding: 8px;
+    cursor: pointer;
+    box-shadow: 5px 5px 15px lightgrey;
 }
