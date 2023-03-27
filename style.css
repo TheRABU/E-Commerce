@@ -58,7 +58,6 @@
 }
 .card2 {
     
-    border: none;
     border-radius: 8px;
     padding: 8px;
     cursor: pointer;
@@ -79,4 +78,7 @@
     padding: 8px;
     cursor: pointer;
     box-shadow: 5px 5px 15px lightgrey;
+}
+#contactus{
+    height: 300px;
 }
