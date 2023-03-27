@@ -56,3 +56,27 @@
     cursor: pointer;
     box-shadow: 5px 5px 15px lightgrey;
 }
+.card2 {
+    
+    border: none;
+    border-radius: 8px;
+    padding: 8px;
+    cursor: pointer;
+    box-shadow: 5px 5px 15px lightgrey;
+}
+.card3 {
+
+    border: none;
+    border-radius: 8px;
+    padding: 8px;
+    cursor: pointer;
+    box-shadow: 5px 5px 15px lightgrey;
+}
+.card4 {
+
+    border: none;
+    border-radius: 8px;
+    padding: 8px;
+    cursor: pointer;
+    box-shadow: 5px 5px 15px lightgrey;
+}
